@@ -1,0 +1,16 @@
+.studentdata{
+    font-family:'Times New Roman', Times, serif;
+    font-style: italic;
+    border-collapse: collapse;
+    width: 100%;
+    background-color: rgb(199, 153, 241);
+    color:white;
+    border:10px solid;
+    padding: 8px;
+}
+.btn{color: rgb(170, 116, 220);
+
+}
+.btn:hover{
+    color:blue
+}
